@@ -1,0 +1,14 @@
+# Start of script
+# GitHub submodules for AquariOS
+
+# The TinyOS kernel
+[submodule "AquariOS/TinyOS/Kernel"]
+	path = AquariOS/TinyOS/Kernel
+	url = https://github.com/tinyos/tinyos-main
+
+# File info
+# File type: Gitmodules file (*.gitmodules)
+# File version:  1 (2022, Sunday, March 27th at 4:11 pm)
+# Line count (including blank lines and compiler line): 15
+
+# End of script
