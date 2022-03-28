@@ -1,0 +1,14 @@
+# Start of script
+# Landing Pahge Git submodules for AquariOS
+
+# The Project Aquarius landing page
+[submodule "seanpm2001/Project-Aquarius"]
+	path = Landing_Page/GitHub/
+	url = https://github.com/seanpm2001/Project-Aquarius
+
+# File info
+# File type: Gitmodules file (*.gitmodules)
+# File version:  1 (2022, Sunday, March 27th at 10:44 pm)
+# Line count (including blank lines and compiler line): 15
+
+# End of script
