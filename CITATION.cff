@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this project (AquariOS Operating System) please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "AquariOS"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-03-26
+url: "https://github.com/seanpm2001/AquariOS"
+cff-version: 1.2.0
+message: "If you use this project (AquariOS Operating System) please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Aquarium Operating System (AquariOS)"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-26
+url: "https://github.com/seanpm2001/AquariOS"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 3
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "AquariOS is a mini operating system for automating and managing Aquariums. The AquariOS development team would like to see the marketshare of who uses AquariOS, along with its developers. Please cite the repository to tell us how you use AquariOS as a developer."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Monday, March 28th at 10:51 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
