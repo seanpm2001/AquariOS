@@ -1,0 +1,1 @@
+ Myrick family, S. P. M. (2022). AquariOS is a mini operating system for automating and managing Aquariums. The AquariOS development team would like to see the marketshare of who uses AquariOS, along with its developers. Please cite the repository to tell us how you use AquariOS as a developer. [Data set]. https://doi.org/10.0000/00000
