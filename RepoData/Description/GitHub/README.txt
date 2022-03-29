@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+AquariOS (Portmanteau for Aquarium Operating System) is a small, basic, embedded operating system for fishtank/aquarium management. Based on TinyOS, and written in nesC and Verilog, AquariOS can help you automate some basic tasks of your aquarium. No Internet connection is required for anything.
