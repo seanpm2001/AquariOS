@@ -1,0 +1,94 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# HTML (HyperText Markup Language) document
+*.htm linguist-detectable=false
+*.htm linguist-documentation=false
+*.html linguist-detectable=false
+*.html linguist-documentation=false
+*.mhtm linguist-detectable=false
+*.mhtm linguist-documentation=false
+*.mhtml linguist-detectable=false
+*.mhtml linguist-documentation=false
+*.xhtm linguist-detectable=false
+*.xhtm linguist-documentation=false
+*.xhtml linguist-detectable=false
+*.xhtml linguist-documentation=false
+# HTA (HTML Application) file
+*.hta linguist-detectable=false
+*.hta linguist-documentation=false
+# API Blueprint source file
+*.apib linguist-detectable=true
+*.apib linguist-documentation=false
+# nesC source file
+*.nc linguist-detectable=true
+*.nc linguist-documentation=false
+# JSON (JavaScript Object Notation) source file
+*.json linguist-detectable=false
+*.json linguist-documentation=false
+# YAML (YAML Ain't Markup Language) document
+*.yml linguist-detectable=false
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=false
+*.yaml linguist-documentation=false
+# Markdown
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+# Makefile (GNU Make)
+*.mk linguist-detectable=false
+*.mk linguist-documentation=false
+*.mak linguist-detectable=false
+*.mak linguist-documentation=false
+*.make linguist-detectable=false
+*.make linguist-documentation=false
+*.makefile linguist-detectable=false
+*.makefile linguist-documentation=false
+# SVG (Scalable Vector Graphics) image file
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
+# LaTeX
+*.tex linguist-detectable=false
+*.tex linguist-documentation=false
+# BibTeX
+*.bib linguist-detectable=false
+*.bib linguist-documentation=false
+# KDE Desktop
+*.desktop linguist-detectable=false
+*.desktop linguist-documentation=false
+# INI & CFG
+*.ini linguist-detectable=false
+*.ini linguist-documentation=false
+*.cfg linguist-detectable=false
+*.cfg linguist-documentation=false
+# ReStructured Text
+*.rst linguist-detectable=false
+*.rst linguist-documentation=false
+# WikiText
+*.wiki linguist-detectable=false
+*.wiki linguist-documentation=false
+# Git Configuration files
+*.gitattributes linguist-detectable=false
+*.gitattributes linguist-documentation=false
+*.gitignore linguist-detectable=false
+*.gitignore linguist-documentation=false
+*.editorconfig linguist-detectable=false
+*.editorconfig linguist-documentation=false
+# Plain Text document
+*.txt linguist-detectable=false
+*.txt linguist-documentation=false
+# End of linguist script
+# File info
+# File type: gitattributes file (.gitattributes)
+# File version: 4 (Tuesday, 2022 March 29th at 10:27 pm)
+# Line count (including blank lines and compiler line): 95
+# End of script
