@@ -319,6 +319,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "project-aquarius",
+      "name": "Project Aquarius",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103785139?v=4",
+      "profile": "https://github.com/Project-Aquarius",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
