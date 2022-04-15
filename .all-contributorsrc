@@ -64,6 +64,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-marinebiology",
+      "name": "Seanpm2001 Marine Biology projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84938566?v=4",
+      "profile": "https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
