@@ -115,6 +115,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-nesc-lang",
+      "name": "Seanpm2001 nesC language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101905398?v=4",
+      "profile": "https://github.com/Seanpm2001-nesC-lang",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
