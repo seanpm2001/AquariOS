@@ -234,6 +234,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-mediawiki-lang",
+      "name": "Seanpm2001 MediaWiki language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85258331?v=4",
+      "profile": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MediaWiki",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
