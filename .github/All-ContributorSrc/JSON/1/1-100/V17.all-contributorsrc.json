@@ -1,0 +1,296 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "seanpm2001",
+      "name": "Sean P. Myrick V19.1.7.2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65933340?v=4",
+      "profile": "https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "seanpm2001-all",
+      "name": "Seanpm2001 (All)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71843643?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-GPL",
+      "name": "Seanpm2001 GPL (General Public License)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86742875?v=4",
+      "profile": "https://github.com/Seanpm2001-GPL",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-marinebiology",
+      "name": "Seanpm2001 Marine Biology projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84938566?v=4",
+      "profile": "https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-operating-systems",
+      "name": "Seanpm2001 Operating Systems",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84294313?v=4",
+      "profile": "https://github.com/QMeadows-development",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanwallawalla-operating-systems",
+      "name": "SeanWallaWalla Operating Systems",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71908312?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-nesc-lang",
+      "name": "Seanpm2001 nesC language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101905398?v=4",
+      "profile": "https://github.com/Seanpm2001-nesC-lang",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-verilog-lang",
+      "name": "Seanpm2001 Verilog language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85038871?v=4",
+      "profile": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verilog",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-markdown-lang",
+      "name": "Seanpm2001 Markdown language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85258049?v=4",
+      "profile": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Markdown",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-html5-lang",
+      "name": "Seanpm2001 HTML5 projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83990679?v=4",
+      "profile": "https://en.wikipedia.org/wiki/HTML5",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-json-lang",
+      "name": "Seanpm2001 JSON language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93161824?v=4",
+      "profile": "https://github.com/Seanpm2001-JSON-lang",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-bibtex-lang",
+      "name": "Seanpm2001 BiBTex language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85581998?v=4",
+      "profile": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kbibtex-icon.png",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-makefile-lang",
+      "name": "Seanpm2001 Makefile language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85372130?v=4",
+      "profile": "https://github.com/seanpm2001/Makefile_Testing",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-mediawiki-lang",
+      "name": "Seanpm2001 MediaWiki language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85258331?v=4",
+      "profile": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MediaWiki",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-restructuredtext-lang",
+      "name": "Seanpm2001 ReStructured Text language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85259636?v=4",
+      "profile": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ReStructuredText",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-hardware",
+      "name": "Seanpm2001 Hardware Projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82983084?v=4",
+      "profile": "https://github.com/seanpm2001/Self-replicating-machine-research",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "AquariOS",
+  "projectOwner": "seanpm2001",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
