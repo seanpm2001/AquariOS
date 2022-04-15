@@ -336,6 +336,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "aquariOS-dev",
+      "name": "AquariOS (Aquarium Operating System)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103785622?v=4",
+      "profile": "https://github.com/AquariOS-dev/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
