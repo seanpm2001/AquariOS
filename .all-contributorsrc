@@ -81,6 +81,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-operating-systems",
+      "name": "Seanpm2001 Operating Systems",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84294313?v=4",
+      "profile": "https://github.com/QMeadows-development",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
