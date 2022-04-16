@@ -353,6 +353,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "PetLand-Software",
+      "name": "PetLand Software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103792713?v=4",
+      "profile": "https://github.com/PetLand-Software",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
